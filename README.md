@@ -24,10 +24,10 @@ This project uses 2022 IPUMS microdata to analyze the difference in earnings bet
 - Female-dominated degrees tend to pay less on average
 
 📎 **Sample Visual**
-![Earnings by Gender and Degree Field](chart-placeholder.png)
+![Graph1](https://github.com/user-attachments/assets/0c262532-cfc1-4704-bd75-d4dca3c572f6)
+![Graph2](https://github.com/user-attachments/assets/54f57b44-5d17-4763-a427-6ad26f00e643)
 
-📄 **Outputs**
-- Regression results exported to HTML
+
   
 ## R Code
 
